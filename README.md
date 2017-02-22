@@ -2,22 +2,7 @@
 Implemented 2 classifiers - 
 * Multinomial Naive Bayes (80% accuracy measured 10 fold)
 * Boolead Multinomial Naive Bayes (82.7% accuracy measured 10 fold)
-* SVM's (Under construction) ."   ".
-  ___
-               ."   ".
-               |  ___(
-               ).' -(
-                )  _/
-              .'_`( 
-             / ( ,/;
-            /   \ ) \\.
-           /'-./ \ '.\\)
-           \   \  '---;\
-           |`\  \      \\
-          / / \  \      \\
-        _/ /   / /      _\\/
-       ( \/   /_/       \   |
-        \_)  (___)       '._/
+* SVM's (Under construction)
 
 # To Run:
  In Python Folder - 
